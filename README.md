@@ -1,6 +1,6 @@
-# Insiclopedia - Biblioteca de Livros
+# Enciclopédia - Biblioteca de Livros
 
-Bem-vindo à Insiclopedia! Uma coleção organizada de livros técnicos e acadêmicos sobre programação, engenharia, matemática e muito mais.
+Bem-vindo à Enciclopédia! Uma coleção organizada de livros técnicos e acadêmicos sobre programação, engenharia, matemática e muito mais.
 
 ## 📚 Índice de Categorias
 
