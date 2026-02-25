@@ -164,6 +164,7 @@ Bem-vindo à Enciclopédia! Uma coleção organizada de livros técnicos e acad�
 - [Elasticsearch Consumindo Dados Real Time com ELK](Livros/Elasticsearch%20consumindo%20dados%20real%20time%20com%20ELK%20(Casa%20do%20Codigo)%20(z-lib.org).pdf)
 - [Livro de Sistemas de Banco de Dados - 4ª Edição](Livros/Livro%20de%20Sistemas%20de%20Banco%20de%20Dados%20-%204ª%20Edição.pdf)
 - [JPA Eficaz - As Melhores Práticas de Persistência de Dados em Java](Livros/JPA%20Eficaz%20-%20As%20melhores%20praticas%20de%20persistencia%20de%20dados%20em%20Java%20-%20Casa%20do%20Codigo.pdf)
+- [Sistemas de Banco de Dados (Elmasri e Navathe) - 6a edicao](Livros/%5BLivro%5D%20Sistemas%20de%20Banco%20de%20Dados%20(Elmasri%20e%20Navathe)%20-%206a%20edicao.pdf)
 
 ---
 
